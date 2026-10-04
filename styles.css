@@ -118,7 +118,7 @@ footer {
         .card-row section{
             width: 30%;
         }
-}
+    }
 /* write a media query for a screen with at least 800px */
 /* change the body's grid template to 1fr 300px */
 /* target the header, nav, and footer and style their grid-column to 1/-1 */
